@@ -32,6 +32,10 @@ body {
 	width: 80%;
 }
 
+.card-body {
+	min-height: 28vh;
+}
+
 #tools {
 	width: 90%;
 	background-color: #212121;
